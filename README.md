@@ -20,3 +20,26 @@
 5. Далі робимо refresh сторінки у pgAdmin та перевіряємо, що всі дані додалися.
 
 6. Також результат запиту знайдете у папці queries під назвою custom_query_result.csv 
+
+
+Трішки скріншотів:
+Як програма пише, що додаються рядки:
+
+![image](https://user-images.githubusercontent.com/45047703/115125016-32d79280-9fce-11eb-9dab-ed772fa2f279.png)
+
+
+Так виглядає табличка ZNO_RESULTS_19_20:
+
+
+![image](https://user-images.githubusercontent.com/45047703/115125079-995cb080-9fce-11eb-8b4a-d19fdd865c42.png)
+
+Так виглядає результат query:
+
+![image](https://user-images.githubusercontent.com/45047703/115125120-cf019980-9fce-11eb-9dc4-8ffc44b36658.png)
+
+Ось таку помилку видає, коли відключили connection
+
+![image](https://user-images.githubusercontent.com/45047703/115125145-f8bac080-9fce-11eb-8ded-bb331d4cd037.png)
+
+https://www.loom.com/share/06007f955ac44f1382f55d2673533e37 - сценарій падіння бази
+
